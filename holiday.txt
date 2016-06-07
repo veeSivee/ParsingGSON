@@ -1,0 +1,20 @@
+{
+"status": 200,
+"holidays": [
+{
+"name": "Flag Day",
+"country": "US",
+"date": "2016-06-14"
+},
+{
+"name": "Father's Day",
+"country": "US",
+"date": "2016-06-19"
+},
+{
+"name": "Helen Keller Day",
+"country": "US",
+"date": "2016-06-27"
+}
+]
+}
